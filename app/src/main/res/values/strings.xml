@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Blood Donation Helper</string>
+    <string name="action_donate">Donate</string>
+    <string name="action_receive">Receive</string>
+    <string name="action_home">Home</string>
+    <string name="donation_msg">Would You Like To Donate Blood Today?</string>
+    <string name="donate">Donate</string>
+    <string name="receive_msg">In Need Of A Blood Donation?</string>
+    <string name="receive">Book An Appointment Now!</string>
+    <string name="steps_msg">Wondering What You Need To Do Before Making Being a Blood Donor? Click Here to FInd Out More!</string>
+    <string name="steps">Steps To Take</string>
+    <string name="donate_page">Donate Page</string>
+    <string name="eligible_msg">Please Fill Up The Form Below To Check If Your Eligible To Be A Blood Donor.</string>
+    <string name="question1">1. Have you experienced any signs of illness in the past month?</string>
+    <string name="question2">2. Are you at least 17 years old?</string>
+    <string name="question3">3. Do you at least weight 100 pounds?</string>
+    <string name="question4">4. Have you donated blood in the past 3 months?</string>
+    <string name="question5">5. Are you in good health and feeling well?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submit">Submit</string>
+    <string name="stepstotake_page">Steps To Take Page</string>
+    <string name="fandm_content"><b>Before your blood donation:</b>
+\n\n
+1.Get plenty of sleep the night before you plan to donate.
+\n\n
+2.Eat a healthy meal before your donation. Avoid fatty foods, such as a hamburger, fries or ice cream.
+\n\n
+3.Drink plenty of water before the donation.
+\n\n
+4.Check to see if any medications you are taking or recently took would prevent you from donating. For example, if you are a platelet donor, you must not take aspirin for two days prior to donating. Talk to your doctor before discontinuing any medications.
+\n\n
+5.Wear a shirt with sleeves that can be rolled up.
+\n\n
+    </string>
+    <string name="steps_to_take_msg">Steps That Need To Be Taken Before Donating Blood</string>
+    <string name="food_and_medications">Food and Medications</string>
+    <string name="what_to_expect_before">What you can expect before the procedure</string>
+    <string name="whattoexpect_content"><b>Before the procedure</b>
+\n\n
+Before you can donate blood, you will be asked to fill out a confidential medical history that includes questions about behaviors known to carry a higher risk of bloodborne infections — infections that are transmitted through the blood.
+\n\n
+Because of the risk of bloodborne infections, not everyone can donate blood. The following are a few high-risk groups that are not eligible to donate blood:
+\n\n
+* Anyone who has used injected drugs, steroids or another substance not prescribed by a doctor in the past three months
+\n\n
+* Men who have had sexual contact with other men in the past three months
+\n\n
+* Anyone who has a congenital coagulation factor deficiency
+\n\n
+* Anyone who has had a positive test for HIV
+\n\n
+* Anyone who has engaged in sex for money or drugs in the past three months
+\n\n
+* Anyone who, in the past 12 months, has had close contact with — lived with or had sexual contact with — a person who has viral hepatitis
+\n\n
+* Anyone who has had babesiosis, a rare and severe tick-borne disease, or the parasitic infection Chagas disease
+\n\n
+* Anyone who has taken the psoriasis medication etretinate (Tegison), which has been discontinued in the U.S.
+\n\n
+* Anyone who has risk factors for the degenerative brain disorder Creutzfeldt-Jakob disease (CJD)
+\n\n
+* Anyone who spent three months or more in the United Kingdom from 1980 through 1996
+\n\n
+* Anyone who received a blood transfusion in the United Kingdom or France from 1980 to the present
+\n\n
+* Anyone who has spent time that adds up to five years or more in France or Ireland from 1980 to 2001
+\n\n
+You will also have a brief physical exam, which includes checking your blood pressure, pulse and temperature. A small sample of blood is taken from a finger prick and is used to check the oxygen-carrying component of your blood (hemoglobin level). If your hemoglobin concentration is normal and youve met all the other screening requirements, you can donate blood.
+    </string>
+</resources>
